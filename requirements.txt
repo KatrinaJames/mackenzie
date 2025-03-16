@@ -75,14 +75,6 @@ python-json-logger==3.2.1
 pytz==2024.1
 pyyaml==6.0.2
 pyzmq==26.2.0
-qtbase==6.7.2
-qtconsole==5.6.1
-qtdeclarative==6.7.2
-qtpy==2.4.1
-qtsvg==6.7.2
-qttools==6.7.2
-qtwebchannel==6.7.2
-qtwebsockets==6.7.2
 referencing==0.30.2
 requests==2.32.3
 rfc3339-validator==0.1.4
