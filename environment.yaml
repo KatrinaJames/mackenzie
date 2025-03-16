@@ -1,0 +1,9 @@
+name: mackenzie
+channels:
+  - defaults
+dependencies:
+  - ipywidgets
+  - plotly
+  - voila
+  - pandas
+  - anaconda::jupyter

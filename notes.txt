@@ -1,0 +1,18 @@
+- not all funds are in the same category, although ci and fidelity are
+- many manager changes in CI fund
+- ci fund most expensive
+- dynamic fund underperform since 2021, ci overperform, fidelity about average
+- dynamic capturing more downside than upside, ci more upside, fidelity about avg
+- dynamic lowest sharpe ratio
+- dynamic large momentum bias, not very sector diversified, low international exposure
+- fidelity more style neutral, ci high momentum, large cap
+- dynamic and fidelity floating more cash than ci
+- div yield on dynamic is very low
+- number of holding in dynamic and CI quite low, fidelity much more diversified
+- ci tenure, very short
+- significantly more analysts hold a negative view of ci funds
+- lots of flows out of dynamic, ci mixed bag, fidelity flows into fund
+- fidelity is lowest vol
+- dynamic very US focusess, fidelity most diversified geographically
+- fidelity highest trailing 12 month yield, no dynamic yield
+- dynamic huge turnover, ci high, fidelity low
