@@ -13,7 +13,7 @@ The analysis is limited to F-class versions of these fund for an apples-to apple
 - Launch either `jupyter lab` or `jupyter notebook`
 
 ## Deployed web app
-- View on mybinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KatrinaJames/mackenzie/HEAD?urlpath=%2Fdoc%2Ftree%2Fapp%2Fapp.ipynb?theme=dark)
+- View on mybinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KatrinaJames/mackenzie/HEAD??urlpath=voila%2Frender%2Fapp%2Fapp.ipynb?theme=dark)
 - Or run locally using `python -m voila app.ipynb --theme=dark` from the `app` directory
 
 ## Conventions and layout
