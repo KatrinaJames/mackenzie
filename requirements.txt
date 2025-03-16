@@ -91,7 +91,6 @@ tbb==2021.8.0
 tenacity==9.0.0
 terminado==0.17.1
 tinycss2==1.4.0
-tk==8.6.14
 tornado==6.4.2
 traitlets==5.14.3
 typing-extensions==4.12.2
