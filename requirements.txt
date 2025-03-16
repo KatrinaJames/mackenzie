@@ -96,7 +96,6 @@ traitlets==5.14.3
 typing-extensions==4.12.2
 typing_extensions==4.12.2
 urllib3==2.3.0
-vc==14.42
 voila==0.5.7
 vs2015_runtime==14.42.34433
 wcwidth==0.2.5
