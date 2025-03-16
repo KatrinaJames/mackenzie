@@ -71,7 +71,6 @@ pycparser==2.21
 pygments==2.15.1
 pysocks==1.7.1
 python-dateutil==2.9.0post0
-python-fastjsonschema==2.20.0
 python-json-logger==3.2.1
 python-tzdata==2023.3
 pytz==2024.1
