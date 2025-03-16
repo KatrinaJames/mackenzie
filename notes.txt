@@ -13,6 +13,12 @@
 - significantly more analysts hold a negative view of ci funds
 - lots of flows out of dynamic, ci mixed bag, fidelity flows into fund
 - fidelity is lowest vol
-- dynamic very US focusess, fidelity most diversified geographically
+- dynamic very US focuses, fidelity most diversified geographically
 - fidelity highest trailing 12 month yield, no dynamic yield
 - dynamic huge turnover, ci high, fidelity low
+
+
+Analysis breakdown:
+allocation - asset mix, sectors, geographical, style factors
+performance - fees, returns, upside/downside, yield, vol
+perception: firm, tenure, flows
