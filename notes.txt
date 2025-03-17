@@ -19,6 +19,6 @@
 
 
 Analysis breakdown:
-allocation - asset mix, sectors, geographical, style factors
-performance - fees, returns, upside/downside, yield, vol
+allocation - asset mix, sectors, geographical, style factors, number investments, concentration
+performance - fees, returns, upside/downside, yield, vol, sharpe
 perception: firm, tenure, flows
