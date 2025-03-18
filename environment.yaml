@@ -7,3 +7,5 @@ dependencies:
   - voila
   - pandas
   - anaconda::jupyter
+  - conda-forge::yfinance
+  - anaconda::statsmodels
